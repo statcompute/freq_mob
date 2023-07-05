@@ -1,6 +1,6 @@
 #### Introduction
 
-To mimic the py\_mob package (https://pypi.org/project/py-mob) for binary outcomes, the freq\_mob is a collection of python functions that would generate the monotonic binning and perform the variable transformation for frequency outcomes such that the pearson correlation between the transformed X and Ln(Y) is equal to 1. 
+To mimic the py\_mob package (https://pypi.org/project/py-mob) for binary outcomes, the freq\_mob is a collection of python functions that would generate the monotonic binning and perform the variable transformation for frequency outcomes such that the Pearson correlation between the transformed X and Ln(Y) is equal to 1. 
 
 #### Core Functions
 
