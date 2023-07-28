@@ -15,7 +15,8 @@ freq_mob
   |-- kmn_bin()  : A discretization algorthm based on the kmeans clustering of X.  
   |-- gbm_bin()  : A discretization algorthm based on the gradient boosting machine.  
   |-- view_bin() : Displays the binning outcome in a tabular form. 
-  `-- cal_newx() : Applies the variable transformation to a numeric vector based on the binning outcome.
+  |-- cal_newx() : Applies the variable transformation to a numeric vector based on the binning outcome.
+  `-- mi_score() : Calculates the mutual information score between X and Y.
 ```
 
 ###  Authors
